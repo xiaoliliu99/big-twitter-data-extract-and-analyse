@@ -1,0 +1,67 @@
+
+300 chunks 
+
+Rank Author Id Number of Tweets Made
+#1    1498063511204761601   68477
+#2    1089023364973219840   28128
+#3    826332877457481728   27718
+#4    1250331934242123776   25350
+#5    1423662808311287813   21034
+#6    1183144981252280322   20765
+#7    1270672820792508417   20503
+#8    820431428835885059   20063
+#9    778785859030003712   19403
+#10    1104295492433764353   18781
+
+Greater Capital City Number of Tweets Made
+1gsyd (Greater Sydney)    2,114,698
+2gmel (Greater Melbourne)    2,267,051
+5gper (Greater Perth)    589,116
+3gbri (Greater Brisbane)    855,448
+4gade (Greater Adelaide)    451,517
+8acte (Australian Capital Territory)    194,360
+6ghob (Greater Hobart)    90,053
+7gdar (Greater Darwin)    46,376
+9oter (Other Territories)    160
+
+Rank	Author Id	Number of Unique City Locations and #Tweets
+ 1      1429984556451389440     8  (1908tweets  ['1868gsyd', '13gmel', '10gper', '7gbri', '6gade', '2acte', '1ghob', '1gdar', '0oter'] )
+ 2      17285408     8  (1189tweets  ['1041gsyd', '60gmel', '40gper', '23gbri', '11gade', '7acte', '4ghob', '3gdar', '0oter'] )
+ 3      702290904460169216     8  (1122tweets  ['288gsyd', '246gmel', '219gper', '151gbri', '114gade', '44acte', '40ghob', '20gdar', '0oter'] )
+ 4      87188071     8  (390tweets  ['108gsyd', '84gmel', '64gper', '51gbri', '34gade', '29acte', '15ghob', '5gdar', '0oter'] )
+ 5      1361519083     8  (260tweets  ['193gsyd', '36gmel', '12gper', '9gbri', '6gade', '2acte', '1ghob', '1gdar', '0oter'] )
+ 6      502381727     8  (250tweets  ['214gsyd', '10gmel', '8gper', '8gbri', '4gade', '3acte', '2ghob', '1gdar', '0oter'] )
+ 7      921197448885886977     8  (198tweets  ['56gsyd', '46gmel', '37gper', '28gbri', '20gade', '6acte', '4ghob', '1gdar', '0oter'] )
+ 8      601712763     8  (146tweets  ['44gsyd', '39gmel', '19gper', '14gbri', '11gade', '10acte', '8ghob', '1gdar', '0oter'] )
+ 9      2647302752     8  (80tweets  ['32gsyd', '16gmel', '13gper', '5gbri', '4gade', '4acte', '3ghob', '3gdar', '0oter'] )
+ 10      3686036533     7  (2584tweets  ['1547gsyd', '403gmel', '226gper', '186gbri', '91gade', '84acte', '47ghob', '0gdar', '0oter'] )
+Job ID           : 46175545
+Cluster          : spartan
+User/Project     : xiaoli3/comp90024
+Nodes            : 1
+Wall-clock time  : 00:01:10 / 00:10:00
+
+Displaying overall resources usage from 2023-04-07 21:19:31 to 2023-04-07 21:20:41:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-bm060 : 
+                CPU# 1    : 84.7   (  69.2 /  15.5 /   0.0 /  15.3 ) 
+                CPU# 2    : 82.3   (  66.9 /  15.4 /   0.0 /  17.7 ) 
+                CPU# 3    : 81.7   (  66.4 /  15.3 /   0.0 /  18.3 ) 
+                CPU# 4    : 81.6   (  66.7 /  14.9 /   0.0 /  18.4 ) 
+                CPU# 5    : 81.8   (  66.8 /  15.1 /   0.0 /  18.2 ) 
+                CPU# 6    : 81.5   (  66.6 /  14.9 /   0.0 /  18.5 ) 
+                CPU# 7    : 87.3   (  65.0 /  22.2 /   0.0 /  12.7 ) 
+                CPU# 8    : 81.6   (  66.7 /  14.9 /   0.0 /  18.4 ) 
+
+
+Allocated CPUs            : 8    
+  CPUs with usage <25%    : 0    
+  CPUs with usage <50%    : 0    
+  CPUs with usage >50%    : 8    
+
+Memory used (RAM)         : 0.0%  [4MB of 32000MB]
+
+--------------------------------------------
+
